@@ -17,11 +17,11 @@ Welcome to my GitHub profile! I'm passionate about developing data-driven softwa
 - Database Management: MySQL, 
 - Version Control: Git, GitHub
 - Others: Docker, Kubernetes, AWS, Azure
--->
 ## 📈 GitHub Stats
 
 ![Yeok-c's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yeok-c&show_icons=true&theme=radical)
 ![Yeok-c's GitHub stats](https://github-readme-stats.vercel.app/api?username=ytcheah-HKCLR&show_icons=true&theme=radical)
+-->
 
 <!--
 ## 📂 Projects
