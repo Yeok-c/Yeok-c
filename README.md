@@ -1,6 +1,6 @@
 # Hi there, I'm YeokTatt Cheah 👋
 
-Welcome to my GitHub profile! I'm passionate about developing data-driven software. This usually entails statistics, Large Vision-Language Model and data pipelines.
+Welcome to my GitHub profile! I'm passionate about developing data-driven software. This usually entails statistics, large Vision-Language Models (VLMs), agentic frameworks, data loading and retrieval pipelines.
 
 ## 🚀 About Me
 
