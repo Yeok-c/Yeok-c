@@ -4,8 +4,8 @@ Welcome to my GitHub profile! I'm passionate about developing data-driven softwa
 
 ## 🚀 About Me
 
-- 🌱 I’ve temporarily left the workspace to complete my Master of Science in Machine Learning UCL - an excellent program with modules from Deepmind and Gatsby.
-- ⚡ I used to work in computer vision and data-driven robotics but I'm trying to take a (potentially permanent) detour into natural language processing as I believe it is core to all intelligent software in the future.   
+- 🌱 I’m currently completing a Master of Science in Machine Learning UCL - an excellent program with modules from Deepmind and Gatsby.
+- ⚡ I've previously worked for two years in computer vision and data-driven robotics but I'm trying to take a (potentially permanent) detour into natural language processing as I believe it is core to all intelligent software in the future.   
 - 💬 Ask me about anything related to my projects, I’m happy to help explain small concepts or point you in the right directions.
 - 📫 How to reach me: yeoktattcheah at gmail dot com
 <!--
