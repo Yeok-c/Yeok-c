@@ -1,11 +1,7 @@
 # Hi there, I'm YeokTatt Cheah 👋
 
-Welcome to my GitHub profile! I'm passionate about developing data-driven software. This usually entails statistics, large Vision-Language Models (VLMs), agentic frameworks, data loading and retrieval pipelines.
-
-## 🚀 About Me
-
-- 🌱 I’m currently completing a Master of Science in Machine Learning UCL - an excellent program with modules from Deepmind and Gatsby.
-- ⚡ I've previously worked for two years in computer vision and data-driven robotics but I'm trying to take a (potentially permanent) detour into natural language processing as I believe it is core to all intelligent software in the future.   
+- I’m currently working on my stealth startup at Entrepreneur First - a uniform incubator.
+- Prior to that I worked for 2 years at a robotic solution integrator in Hong Kong delivering robotic automation for warehouses in China. I took at detour into NLP and completed my Master of Science in Machine Learning UCL - an excellent program with modules from Deepmind and Gatsby. I then worked at AECOM AI Engineering team and deployed RL algorithms for crazy combinatorial problems.
 - 📫 How to reach me: yeoktattcheah at gmail dot com
 <!--
 ## 🛠️ Technologies & Tools
